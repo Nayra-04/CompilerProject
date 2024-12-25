@@ -1,4 +1,4 @@
-# ![Compiler Design Project (1)](https://github.com/user-attachments/assets/36f8a5e1-e65c-4823-a720-0727deb050eb)
+ ![Compiler Design Project (1)](https://github.com/user-attachments/assets/36f8a5e1-e65c-4823-a720-0727deb050eb)
 
 This project is a comprehensive compiler designed to process and analyze a custom programming language. It incorporates key components such as lexical analysis, syntax analysis, semantic checks, and an interactive graphical user interface (GUI) for processing source code files. The compiler was developed as part of our coursework under the guidance of **Dr. Heba Elhadidy**.
 
@@ -95,9 +95,9 @@ This project is a comprehensive compiler designed to process and analyze a custo
    # ![Compiler Designproject (1)](https://github.com/user-attachments/assets/ce97780d-7142-43e9-a5c3-ddd39657f782)
    # ![Compiler Designproject (3)](https://github.com/user-attachments/assets/628506c8-f451-4807-a18f-3909ea5181c7)
    # <img width="751" alt="Screenshot 2024-12-25 220324" src="https://github.com/user-attachments/assets/58e12f79-1452-4c22-9400-1fcda32a6112" />
-   # <img width="745" alt="Screenshot 2024-12-25 220340" src="https://github.com/user-attachments/assets/afb3f158-5fc6-4a5b-99c6-4b7855124414" />
-   # <img width="737" alt="Screenshot 2024-12-25 220445" src="https://github.com/user-attachments/assets/a50aecff-32f3-4efb-8686-97de0bd93c09" />
-   # <img width="751" alt="Screenshot 2024-12-25 220431" src="https://github.com/user-attachments/assets/2bbecc6f-bddd-4a05-b8fb-e4e33cdb7ec7" />
+   # <img width="745" alt="Screenshot 2024-12-25 220340" src="https://github.com/user-attachments/assets/40c751be-ca7c-4dbb-a88d-67de10d30aef" />
+   # <img width="737" alt="Screenshot 2024-12-25 220445" src="https://github.com/user-attachments/assets/92220799-cbd5-4c3e-a52e-a112ac035ce3" />
+   # <img width="751" alt="Screenshot 2024-12-25 220431" src="https://github.com/user-attachments/assets/81d0a0f1-b553-4d68-b3f3-1bd58f426d53" /> 
 
 ## Supervisor
    - **Dr. Heba El Hadidy**
