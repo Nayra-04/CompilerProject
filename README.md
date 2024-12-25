@@ -92,9 +92,9 @@ This project is a comprehensive compiler designed to process and analyze a custo
       - View tokens, symbol tables, parse trees, and errors in the output tabs.
     
 ## ScreenShots
-   # ![Compiler Designproject (1)](https://github.com/user-attachments/assets/f1d186cc-cb5a-4866-9436-07bde5cf801c)
-   # ![Compiler Designproject (3)](https://github.com/user-attachments/assets/38d5ae19-e483-43d4-a3d4-2eba9bebc4d8)
-   # <img width="751" alt="Screenshot 2024-12-25 220324" src="https://github.com/user-attachments/assets/ff7a233a-8480-4ef7-82ef-708479add515" />
+   # ![Compiler Designproject (1)](https://github.com/user-attachments/assets/ce97780d-7142-43e9-a5c3-ddd39657f782)
+   # ![Compiler Designproject (3)](https://github.com/user-attachments/assets/628506c8-f451-4807-a18f-3909ea5181c7)
+   # <img width="751" alt="Screenshot 2024-12-25 220324" src="https://github.com/user-attachments/assets/58e12f79-1452-4c22-9400-1fcda32a6112" />
    # <img width="745" alt="Screenshot 2024-12-25 220340" src="https://github.com/user-attachments/assets/afb3f158-5fc6-4a5b-99c6-4b7855124414" />
    # <img width="737" alt="Screenshot 2024-12-25 220445" src="https://github.com/user-attachments/assets/a50aecff-32f3-4efb-8686-97de0bd93c09" />
    # <img width="751" alt="Screenshot 2024-12-25 220431" src="https://github.com/user-attachments/assets/2bbecc6f-bddd-4a05-b8fb-e4e33cdb7ec7" />
