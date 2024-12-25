@@ -1,6 +1,4 @@
-# ![Compiler Design Project (1)](https://github.com/user-attachments/assets/f370f008-97f4-4dbc-a202-414c3e1dc092)
-[
-]([url](url))
+# ![Compiler Design Project (1)](https://github.com/user-attachments/assets/36f8a5e1-e65c-4823-a720-0727deb050eb)
 
 This project is a comprehensive compiler designed to process and analyze a custom programming language. It incorporates key components such as lexical analysis, syntax analysis, semantic checks, and an interactive graphical user interface (GUI) for processing source code files. The compiler was developed as part of our coursework under the guidance of **Dr. Heba Elhadidy**.
 
