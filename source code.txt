@@ -1,0 +1,12 @@
+int x = 10 ;
+float y = 3.5 ;
+bool z = True ;
+string name = "compiler";
+if (x > 1){
+    return x ;
+}
+while( y > 1 ){
+    return y ;
+    y=y-1;
+}
+#No errors found in the source code.

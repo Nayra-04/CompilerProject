@@ -1,0 +1,9 @@
+int num1 = 10
+#missing semicolon
+float num2 = 3.5 ;
+bool z = True ;
+string name = "compiler";
+if (num1 > 1)
+    return num1 ;
+}
+#Extra closing brace
